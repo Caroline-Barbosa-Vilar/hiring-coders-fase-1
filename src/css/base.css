@@ -9,6 +9,6 @@
 }
 body {
   height: 100vh;
-  background-image: linear-gradient(90deg, var(--light-blue) , var(--acqua), var(--blue), var(--gray));
+  background-image: linear-gradient(90deg, var(--light-blue) , var(--blue), var(--gray), var(--brown));
   font-family: var(--outfit);
 }

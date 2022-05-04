@@ -5,7 +5,9 @@
   --gray:#6F8AB7;
   --brown:#615D6C;
 
+  --outfit: 'Outfit', sans-serif;
 }
 body {
-  background-image: linear-gradient(to right, var(--light-blue), var(--acqua), var(--blue), var(--gray));
+  height: 100vh;
+  background-image: linear-gradient(90deg, var(--light-blue) , var(--acqua), var(--blue), var(--gray));
 }

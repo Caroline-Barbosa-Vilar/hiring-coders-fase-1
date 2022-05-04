@@ -10,4 +10,5 @@
 body {
   height: 100vh;
   background-image: linear-gradient(90deg, var(--light-blue) , var(--acqua), var(--blue), var(--gray));
+  font-family: var(--outfit);
 }

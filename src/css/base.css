@@ -6,3 +6,6 @@
   --brown:#615D6C;
 
 }
+body {
+  background-image: linear-gradient(to right, var(--light-blue), var(--acqua), var(--blue), var(--gray));
+}

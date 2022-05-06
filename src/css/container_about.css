@@ -1,0 +1,5 @@
+.container__about {
+  height: 50px;
+  font-size: 2rem;
+  color: var(--dark-gray);
+}

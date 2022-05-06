@@ -20,4 +20,9 @@ span {
   color: var(--blue);
   font-size: 2rem;
   font-weight: 700;
+  transition: .3s ease-in-out;
+}
+.header__links li a:hover {
+  color: var(--acqua);
+  font-size: 2.2rem;
 }

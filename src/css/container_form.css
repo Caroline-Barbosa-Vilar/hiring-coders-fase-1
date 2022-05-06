@@ -2,9 +2,33 @@
   width: 40%;
   margin: 0 auto;
 }
+.container__form p {
+  font-size: 1.8rem;
+  font-weight: 600;
+  color: var(--gray);
+  margin-bottom: 10px;
+}
 .container__form input {
   width: 50%;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 7px 0 0 7px;
 }
 .container__form button {
   width: 15%;
+  padding: 5px 10px;
+  background: linear-gradient(to right, var(--white), var(--light-blue), var(--blue));
+  background-size: 200% 100%;
+  background-position: right bottom;
+  color: var(--dark-gray);
+  font-weight: 700;
+  border: none;
+  cursor: pointer;
+  margin-left: 10px;
+  transition: all .5s ease-out;
+  border-radius: 0 7px 7px 0;
+  margin-left: -5px;
+}
+.container__form button:hover {
+  background-position: left bottom;
 }

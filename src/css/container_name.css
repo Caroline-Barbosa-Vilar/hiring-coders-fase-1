@@ -1,0 +1,12 @@
+.container__name {
+  height: 150px;
+  margin-top: 100px;
+}
+.container__name h1 {
+  font-size: 5.5rem;
+  color: var(--dark-gray);
+}
+.container__name h5 {
+  font-size: 3rem;
+  color: var(--gray);
+}

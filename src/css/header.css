@@ -1,0 +1,23 @@
+header {
+  display: flex;
+  margin-top: 20px;
+}
+span {
+  /* width: 200px; */
+  font-size: 4rem;
+  color: var(--blue);
+  font-weight: 600;
+  margin-left: 50px;
+}
+.header__links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 500px;
+  margin-left: 50%;
+}
+.header__links li a {
+  color: var(--blue);
+  font-size: 2rem;
+  font-weight: 700;
+}

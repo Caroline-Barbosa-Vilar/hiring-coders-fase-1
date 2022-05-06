@@ -9,6 +9,7 @@
 }
 body {
   height: 100vh;
-  background-image: linear-gradient(90deg, var(--light-blue) , var(--blue), var(--gray), var(--brown));
+  background: url(../img/pexels-matheus-viana.jpg) no-repeat center;
+  background-size: cover;
   font-family: var(--outfit);
 }

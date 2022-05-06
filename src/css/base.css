@@ -1,11 +1,10 @@
 :root {
+  --white: #ffffff;
   --light-blue:#cae5ff;
   --acqua:#ACEDFF;
   --blue:#89BBFE;
   --gray:#6F8AB7;
   --dark-gray:#4c4b53;
-
-  --background-color: #7D7369;
 
   --outfit: 'Outfit', sans-serif;
 }

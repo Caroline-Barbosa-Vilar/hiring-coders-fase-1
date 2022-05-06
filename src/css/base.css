@@ -5,14 +5,17 @@
   --gray:#6F8AB7;
   --dark-gray:#4c4b53;
 
+  --background-color: #7D7369;
+
   --outfit: 'Outfit', sans-serif;
 }
 html {
   font-size: 62.5%;
+  height: 100vh;
 }
 body {
   height: 100vh;
-  background: url(../img/pexels-matheus-viana.jpg) no-repeat center;
+  background: url(../img/pexels-joão-jesus.jpg) no-repeat center;
   background-size: cover;
   font-family: var(--outfit);
 }

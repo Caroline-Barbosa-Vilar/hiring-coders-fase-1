@@ -1,7 +1,12 @@
 .container__about {
-  height: 50px;
+  height: 100px;
+  width: 500px;
+  margin: 0 auto;
+  display: none;
+}
+.container__about p {
   font-size: 2rem;
   color: var(--dark-gray);
   margin-top: 20px;
-  display: none;
+  text-align: center;
 }

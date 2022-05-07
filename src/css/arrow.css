@@ -16,5 +16,5 @@
   transition: 300ms;
 }
 .active {
-  display: block;
+  display: block !important;
 }

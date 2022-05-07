@@ -8,7 +8,13 @@
     visibility: hidden;
   }
 }
+#animation {
+  transition: 300ms;
+}
 .rotate {
   transform: rotate(180deg);
   transition: 300ms;
+}
+.active {
+  display: block;
 }

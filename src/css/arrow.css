@@ -1,3 +1,14 @@
 #arrow {
   font-size: 35px;
+  cursor: pointer;
+  animation: blink 1.3s steps(5, start) infinite;
+}
+@keyframes blink {
+  to {
+    visibility: hidden;
+  }
+}
+.rotate {
+  transform: rotate(180deg);
+  transition: 300ms;
 }

@@ -26,12 +26,6 @@ span {
   color: var(--acqua);
   font-size: 2.2rem;
 }
-@media (max-width:1236px) {
-  .header__links {
-    margin-left: 30%;
-    justify-content: space-around;
-  }
-}
 @media (max-width:768px) {
   .header__links {
     margin-left: 30%;

@@ -32,3 +32,14 @@
 .container__form button:hover {
   background-position: left bottom;
 }
+@media (max-width:768px) {
+  .container__form p {
+    margin-bottom: 20px;
+  }
+  .container__form input {
+    width: 75%;
+  }
+  .container__form button {
+    width: 20%;
+  }
+}

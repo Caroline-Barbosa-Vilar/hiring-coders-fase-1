@@ -23,3 +23,8 @@ body {
   text-align: center;
   height:500px;
 }
+@media (max-width: 768px) {
+  .container {
+    margin: 150px auto;
+  }
+}

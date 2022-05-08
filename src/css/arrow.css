@@ -18,3 +18,8 @@
 .active {
   display: block !important;
 }
+@media (max-width:768px) {
+  #arrow {
+    margin-top: 30px;
+  }
+}

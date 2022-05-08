@@ -10,3 +10,8 @@
   font-size: 3rem;
   color: var(--gray);
 }
+@media (max-width:768px) {
+  .container__name h5 {
+    margin: 30px 0;
+  }
+}

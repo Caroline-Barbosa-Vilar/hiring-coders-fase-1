@@ -16,6 +16,7 @@ body {
   height: 100vh;
   background: url(../img/pexels-joão-jesus.jpg) no-repeat center;
   background-size: cover;
+  background-color: #131313;
   font-family: var(--outfit);
 }
 .container {
